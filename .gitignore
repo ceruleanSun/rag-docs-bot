@@ -37,6 +37,7 @@ htmlcov/
 
 # ChromaDB local storage
 chroma_data/
+chroma_db/
 *.db
 
 # Jupyter
